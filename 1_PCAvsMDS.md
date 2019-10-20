@@ -2,6 +2,8 @@ Title:       PCA vs MDS
 Author:      Julian Kanjere  
 Date:        October 2019
 
+## Unsupervised Learning - Dimensionality Reduction - Principal Component Analysis (PCA) vs Multi Dimensional Scaling (MDS)
+
 | Criteria        | PCA           | MDS  | Comment  |
 | ------------- |:-------------:| -----:| -----:|
 | Definition      | Multivariate Dimension Reduction technique used to find the core components of a dataset with the help of orthogonal transformations. This linear transformation reveals the internal structure of the dataset with an arbitrarily designed new basis in the vector space, which best explains the variance of the data. | Multivariate dimension reduction technique that is used to visualize the similarity/dissimilarity between samples by plotting points in a lower dimensional splace. | Both are dimension reduction techniques.|
